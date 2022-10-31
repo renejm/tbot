@@ -1,0 +1,22 @@
+{
+  "name": "binance",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "git reset --hard && git pull && node --trace-warnings -r dotenv/config index",
+    "saldo": "clear && node --trace-warnings -r dotenv/config saldo",
+    "cancelar": "node --trace-warnings -r dotenv/config cancelarOrdens",
+    "test": "node --trace-warnings -r dotenv/config teste"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "dotenv": "^16.0.1",
+    "kucoin-node-sdk": "^1.0.4",
+    "readline-sync": "^1.4.10",
+    "ws": "^8.8.1"
+  }
+}

@@ -1,0 +1,159 @@
+21/10/2022 21:42:09 - ERRO EM getBalance (/home/rene/abbtrade/api/BinApi.js:148:25) ➟ Cód.: -2015 ➟ 401 (Unauthorized) • Invalid API-key, IP, or permissions for action.
+21/10/2022 21:42:10 - ERRO EM getOrders (/home/rene/abbtrade/api/BinApi.js:221:23) ➟ Cód.: -2015 ➟ 401 (Unauthorized) • Invalid API-key, IP, or permissions for action.
+22/10/2022 13:20:08 - Bot iniciado...
+22/10/2022 13:20:08 - MOEDAS: USDT e XRP
+22/10/2022 13:20:08 - ESTRATÉGIA DE PREÇO:.........2 (porcentagem adicional de 0,200%)
+22/10/2022 13:20:08 - ESTRATÉGIA DE QUANTIDADE:....1
+22/10/2022 13:20:08 - Conectado ao websocket da Kucoin.
+22/10/2022 13:20:10 - Conectado ao websocket da Binance.
+22/10/2022 13:20:12 - Novo pico para compra na Kucoin e venda na Binance: 0,0172%
+22/10/2022 13:20:35 - Novo pico para compra na Kucoin e venda na Binance: 0,0237%
+22/10/2022 13:20:41 - Novo pico para compra na Kucoin e venda na Binance: 0,0237%
+22/10/2022 13:20:51 - Novo pico para compra na Binance e venda na Kucoin: 0,0022%
+22/10/2022 13:21:00 - Novo pico para compra na Binance e venda na Kucoin: 0,0043%
+22/10/2022 13:24:08 - Bot iniciado...
+22/10/2022 13:24:08 - MOEDAS: USDT e XRP
+22/10/2022 13:24:08 - ESTRATÉGIA DE PREÇO:.........2 (porcentagem adicional de 0,200%)
+22/10/2022 13:24:08 - Conectado ao websocket da Kucoin.
+22/10/2022 13:24:08 - ESTRATÉGIA DE QUANTIDADE:....1
+22/10/2022 13:24:10 - Conectado ao websocket da Binance.
+22/10/2022 13:24:11 - Novo pico para compra na Kucoin e venda na Binance: 0,0022%
+22/10/2022 13:24:22 - Novo pico para compra na Kucoin e venda na Binance: 0,0086%
+22/10/2022 13:24:22 - Novo pico para compra na Kucoin e venda na Binance: 0,0108%
+22/10/2022 13:24:57 - Novo pico para compra na Binance e venda na Kucoin: 0,0065%
+22/10/2022 13:24:59 - Novo pico para compra na Binance e venda na Kucoin: 0,0259%
+22/10/2022 13:24:59 - Novo pico para compra na Binance e venda na Kucoin: 0,0281%
+22/10/2022 13:25:03 - Novo pico para compra na Kucoin e venda na Binance: 0,0108%
+22/10/2022 13:26:15 - Novo pico para compra na Kucoin e venda na Binance: 0,0129%
+22/10/2022 13:26:34 - Novo pico para compra na Binance e venda na Kucoin: 0,0474%
+22/10/2022 13:28:00 - Bot iniciado...
+22/10/2022 13:28:00 - MOEDAS: USDT e XRP
+22/10/2022 13:28:00 - ESTRATÉGIA DE PREÇO:.........2 (porcentagem adicional de 0,200%)
+22/10/2022 13:28:00 - ESTRATÉGIA DE QUANTIDADE:....1
+22/10/2022 13:28:00 - Conectado ao websocket da Kucoin.
+22/10/2022 13:28:02 - Conectado ao websocket da Binance.
+22/10/2022 13:28:15 - Novo pico para compra na Binance e venda na Kucoin: 0,0022%
+22/10/2022 13:28:15 - Novo pico para compra na Binance e venda na Kucoin: 0,0043%
+22/10/2022 13:28:15 - Novo pico para compra na Binance e venda na Kucoin: 0,0065%
+22/10/2022 13:28:28 - Novo pico para compra na Kucoin e venda na Binance: 0,0129%
+22/10/2022 13:28:39 - Novo pico para compra na Kucoin e venda na Binance: 0,0151%
+22/10/2022 13:28:58 - Novo pico para compra na Kucoin e venda na Binance: 0,0474%
+22/10/2022 13:29:19 - Bot iniciado...
+22/10/2022 13:29:19 - MOEDAS: USDT e XRP
+22/10/2022 13:29:19 - ESTRATÉGIA DE PREÇO:.........2 (porcentagem adicional de 0,200%)
+22/10/2022 13:29:19 - ESTRATÉGIA DE QUANTIDADE:....1
+22/10/2022 13:29:19 - Conectado ao websocket da Kucoin.
+22/10/2022 13:29:21 - Conectado ao websocket da Binance.
+22/10/2022 13:29:23 - Novo pico para compra na Kucoin e venda na Binance: 0,0108%
+22/10/2022 13:29:23 - Novo pico para compra na Kucoin e venda na Binance: 0,0129%
+22/10/2022 13:29:31 - Novo pico para compra na Kucoin e venda na Binance: 0,0216%
+22/10/2022 13:29:37 - Novo pico para compra na Kucoin e venda na Binance: 0,0431%
+22/10/2022 13:29:41 - Novo pico para compra na Binance e venda na Kucoin: 0,0172%
+22/10/2022 13:31:52 - Bot iniciado...
+22/10/2022 13:31:52 - MOEDAS: USDT e XRP
+22/10/2022 13:31:52 - ESTRATÉGIA DE PREÇO:.........2 (porcentagem adicional de 0,200%)
+22/10/2022 13:31:52 - ESTRATÉGIA DE QUANTIDADE:....1
+22/10/2022 13:31:53 - Conectado ao websocket da Kucoin.
+22/10/2022 13:31:54 - Conectado ao websocket da Binance.
+22/10/2022 13:32:13 - Novo pico para compra na Kucoin e venda na Binance: 0,0194%
+22/10/2022 13:32:22 - Novo pico para compra na Kucoin e venda na Binance: 0,0409%
+22/10/2022 13:34:00 - Bot iniciado...
+22/10/2022 13:34:00 - MOEDAS: USDT e XRP
+22/10/2022 13:34:00 - ESTRATÉGIA DE PREÇO:.........2 (porcentagem adicional de 0,200%)
+22/10/2022 13:34:00 - ESTRATÉGIA DE QUANTIDADE:....1
+22/10/2022 13:34:00 - Conectado ao websocket da Kucoin.
+22/10/2022 13:34:02 - Conectado ao websocket da Binance.
+22/10/2022 13:34:12 - Novo pico para compra na Kucoin e venda na Binance: 0,0108%
+22/10/2022 13:34:13 - Novo pico para compra na Kucoin e venda na Binance: 0,0129%
+22/10/2022 13:34:18 - Novo pico para compra na Kucoin e venda na Binance: 0,0151%
+22/10/2022 13:34:28 - Novo pico para compra na Kucoin e venda na Binance: 0,0172%
+22/10/2022 13:34:57 - Novo pico para compra na Kucoin e venda na Binance: 0,0215%
+22/10/2022 13:37:17 - Novo pico para compra na Kucoin e venda na Binance: 0,0216%
+22/10/2022 13:37:17 - Novo pico para compra na Kucoin e venda na Binance: 0,0259%
+22/10/2022 13:37:47 - Bot iniciado...
+22/10/2022 13:37:47 - MOEDAS: USDT e XRP
+22/10/2022 13:37:47 - ESTRATÉGIA DE PREÇO:.........2 (porcentagem adicional de 0,200%)
+22/10/2022 13:37:47 - ESTRATÉGIA DE QUANTIDADE:....1
+22/10/2022 13:37:47 - Conectado ao websocket da Kucoin.
+22/10/2022 13:37:49 - Conectado ao websocket da Binance.
+22/10/2022 13:38:41 - Bot iniciado...
+22/10/2022 13:38:41 - MOEDAS: USDT e XRP
+22/10/2022 13:38:41 - ESTRATÉGIA DE PREÇO:.........2 (porcentagem adicional de 0,200%)
+22/10/2022 13:38:41 - ESTRATÉGIA DE QUANTIDADE:....1
+22/10/2022 13:38:41 - Conectado ao websocket da Kucoin.
+22/10/2022 13:38:43 - Conectado ao websocket da Binance.
+22/10/2022 13:38:57 - Novo pico para compra na Kucoin e venda na Binance: 0,0022%
+22/10/2022 13:38:57 - Novo pico para compra na Kucoin e venda na Binance: 0,0043%
+22/10/2022 13:38:57 - Novo pico para compra na Kucoin e venda na Binance: 0,0086%
+22/10/2022 13:39:00 - Novo pico para compra na Kucoin e venda na Binance: 0,0151%
+22/10/2022 13:40:50 - Bot iniciado...
+22/10/2022 13:40:50 - MOEDAS: USDT e XRP
+22/10/2022 13:40:50 - ESTRATÉGIA DE PREÇO:.........2 (porcentagem adicional de 0,200%)
+22/10/2022 13:40:50 - ESTRATÉGIA DE QUANTIDADE:....1
+22/10/2022 13:40:50 - Conectado ao websocket da Kucoin.
+22/10/2022 13:40:52 - Conectado ao websocket da Binance.
+22/10/2022 13:41:11 - Novo pico para compra na Kucoin e venda na Binance: 0,0043%
+22/10/2022 13:47:54 - Bot iniciado...
+22/10/2022 13:47:54 - MOEDAS: USDT e XRP
+22/10/2022 13:47:54 - ESTRATÉGIA DE PREÇO:.........2 (porcentagem adicional de 0,200%)
+22/10/2022 13:47:54 - ESTRATÉGIA DE QUANTIDADE:....1
+22/10/2022 13:47:55 - Conectado ao websocket da Kucoin.
+22/10/2022 13:47:56 - Conectado ao websocket da Binance.
+22/10/2022 13:48:07 - Novo pico para compra na Kucoin e venda na Binance: 0,0043%
+22/10/2022 13:48:09 - Novo pico para compra na Kucoin e venda na Binance: 0,0065%
+22/10/2022 13:48:09 - Novo pico para compra na Kucoin e venda na Binance: 0,0087%
+22/10/2022 13:48:10 - Novo pico para compra na Binance e venda na Kucoin: 0,0108%
+22/10/2022 13:48:11 - Novo pico para compra na Kucoin e venda na Binance: 0,0087%
+22/10/2022 13:48:13 - Novo pico para compra na Kucoin e venda na Binance: 0,0108%
+22/10/2022 13:48:13 - Novo pico para compra na Kucoin e venda na Binance: 0,0130%
+22/10/2022 13:48:38 - Novo pico para compra na Binance e venda na Kucoin: 0,0108%
+22/10/2022 13:48:40 - Bot iniciado...
+22/10/2022 13:48:40 - MOEDAS: USDT e XRP
+22/10/2022 13:48:40 - ESTRATÉGIA DE PREÇO:.........2 (porcentagem adicional de 0,200%)
+22/10/2022 13:48:40 - ESTRATÉGIA DE QUANTIDADE:....1
+22/10/2022 13:48:40 - Conectado ao websocket da Kucoin.
+22/10/2022 13:48:42 - Conectado ao websocket da Binance.
+22/10/2022 13:49:00 - Bot iniciado...
+22/10/2022 13:49:00 - MOEDAS: USDT e XRP
+22/10/2022 13:49:00 - ESTRATÉGIA DE PREÇO:.........2 (porcentagem adicional de 0,200%)
+22/10/2022 13:49:00 - ESTRATÉGIA DE QUANTIDADE:....1
+22/10/2022 13:49:00 - Conectado ao websocket da Kucoin.
+22/10/2022 13:49:02 - Conectado ao websocket da Binance.
+22/10/2022 13:49:19 - Bot iniciado...
+22/10/2022 13:49:19 - MOEDAS: USDT e XRP
+22/10/2022 13:49:19 - ESTRATÉGIA DE PREÇO:.........2 (porcentagem adicional de 0,200%)
+22/10/2022 13:49:19 - ESTRATÉGIA DE QUANTIDADE:....1
+22/10/2022 13:49:20 - Conectado ao websocket da Kucoin.
+22/10/2022 13:49:21 - Conectado ao websocket da Binance.
+22/10/2022 13:50:11 - Bot iniciado...
+22/10/2022 13:50:11 - MOEDAS: USDT e XRP
+22/10/2022 13:50:11 - ESTRATÉGIA DE PREÇO:.........2 (porcentagem adicional de 0,200%)
+22/10/2022 13:50:12 - Conectado ao websocket da Kucoin.
+22/10/2022 13:50:11 - ESTRATÉGIA DE QUANTIDADE:....1
+22/10/2022 13:50:13 - Conectado ao websocket da Binance.
+22/10/2022 13:50:33 - Novo pico para compra na Binance e venda na Kucoin: 0,0087%
+22/10/2022 13:50:34 - Novo pico para compra na Kucoin e venda na Binance: 0,0108%
+22/10/2022 13:50:35 - Novo pico para compra na Binance e venda na Kucoin: 0,0130%
+22/10/2022 13:50:35 - Novo pico para compra na Binance e venda na Kucoin: 0,0346%
+22/10/2022 14:33:31 - Bot iniciado...
+22/10/2022 14:33:31 - MOEDAS: USDT e XRP
+22/10/2022 14:33:31 - ESTRATÉGIA DE PREÇO:.........2 (porcentagem adicional de 0,200%)
+22/10/2022 14:33:31 - ESTRATÉGIA DE QUANTIDADE:....1
+22/10/2022 14:33:32 - Conectado ao websocket da Kucoin.
+22/10/2022 14:33:33 - Conectado ao websocket da Binance.
+22/10/2022 14:34:00 - Novo pico para compra na Binance e venda na Kucoin: 0,0194%
+22/10/2022 14:34:00 - Novo pico para compra na Binance e venda na Kucoin: 0,0410%
+22/10/2022 14:36:56 - Novo pico para compra na Binance e venda na Kucoin: 0,0563%
+22/10/2022 15:07:17 - Bot iniciado...
+22/10/2022 15:07:17 - MOEDAS: USDT e XRP
+22/10/2022 15:07:17 - ESTRATÉGIA DE PREÇO:.........2 (porcentagem adicional de 0,200%)
+22/10/2022 15:07:17 - Conectado ao websocket da Kucoin.
+22/10/2022 15:07:17 - ESTRATÉGIA DE QUANTIDADE:....1
+22/10/2022 15:07:19 - Conectado ao websocket da Binance.
+22/10/2022 15:07:33 - Novo pico para compra na Binance e venda na Kucoin: 0,0043%
+25/10/2022 09:06:14 - ❌ ERRO EM cancelAllOrders (/home/rene/abbtrade/api/BinApi.js:139:18) ➟ Cód.: -2011 ➟ 400 (Bad Request) • Unknown order sent.
+25/10/2022 09:28:45 - ❌ ERRO EM cancelOrder (/home/rene/abbtrade/api/BinApi.js:131:15) ➟ Cód.: -2011 ➟ 400 (Bad Request) • Unknown order sent.
+25/10/2022 09:29:41 - ❌ ERRO EM cancelOrder (/home/rene/abbtrade/api/BinApi.js:131:15) ➟ Cód.: -2011 ➟ 400 (Bad Request) • Unknown order sent.
+25/10/2022 09:32:01 - ❌ ERRO EM cancelOrder (/home/rene/abbtrade/api/BinApi.js:131:15) ➟ Cód.: -2011 ➟ 400 (Bad Request) • Unknown order sent.
+25/10/2022 09:32:45 - ❌ ERRO EM cancelOrder (/home/rene/abbtrade/api/BinApi.js:131:15) ➟ Cód.: -2011 ➟ 400 (Bad Request) • Unknown order sent.
+25/10/2022 09:39:04 - ❌ ERRO EM cancelOrder (/home/rene/abbtrade/api/BinApi.js:131:15) ➟ Cód.: -2011 ➟ 400 (Bad Request) • Unknown order sent.
