@@ -1,6 +1,6 @@
-# ABBTrade Bot
+# T-Bot
 
-ABBTrade é um bot de automação de transações entre operadoras de criptomoedas (exchanges).
+T-Bot é um bot de automação de transações entre operadoras de criptomoedas (exchanges).
 
 
 # Instalação:
